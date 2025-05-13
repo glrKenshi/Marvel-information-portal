@@ -1,7 +1,5 @@
 # 🦸‍♂️ Marvel Information Portal | Портал информации о персонажах Marvel
 
-## 🇺🇸 English Description
-
 This is a **Marvel Information Portal** built with **React** and **React Router**.  
 It fetches real-time data from the official [Marvel API](https://developer.marvel.com/) to display a full list of Marvel characters and detailed information about each of them.
 
@@ -9,7 +7,7 @@ It fetches real-time data from the official [Marvel API](https://developer.marve
 - React
 - React Router
 - Marvel API
-- Axios / Fetch API
+- Fetch API
 
 📚 **Purpose**:  
 This is a **learning pet project** aimed at reinforcing React fundamentals and practicing API integration with third-party services.
